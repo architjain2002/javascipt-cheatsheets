@@ -1,4 +1,4 @@
-#Cheatsheets for javascipt
+# Cheatsheets for javascipt
 
 As javascript has vast functionalitites it is practical enough to mantain a reference sheet.
 
